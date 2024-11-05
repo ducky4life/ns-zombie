@@ -4,6 +4,8 @@ Keybinding script for zombie control with multiple puppets. Intended to be used 
 
 works on fast.nationstates.net!
 
+i recommend using [tree style tabs](https://addons.mozilla.org/en-GB/firefox/addon/tree-style-tab/) when running the script with multiple puppets
+
 # Installation
 I use [TamperMonkey](https://www.tampermonkey.net/) for this, you can use whatever works for you
 
