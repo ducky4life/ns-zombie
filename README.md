@@ -7,8 +7,12 @@ works on fast.nationstates.net!
 i recommend using [tree style tabs](https://addons.mozilla.org/en-GB/firefox/addon/tree-style-tab/) when running the script with multiple puppets
 
 ## Check out my other scripts!
-[![detag script](https://github-readme-stats.vercel.app/api/pin/?username=ducky4life&repo=ns-detag&theme=algolia)](https://github.com/ducky4life/ns-detag)
-[![puree script](https://github-readme-stats.vercel.app/api/pin/?username=ducky4life&repo=ns-blender&theme=algolia)](https://github.com/ducky4life/ns-blender)
+<a href="https://github.com/ducky4life/ns-detag">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ducky4life&repo=ns-detag&theme=algolia" />
+</a>
+<a href="https://github.com/ducky4life/ns-blender">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ducky4life&repo=ns-blender&theme=algolia" />
+</a>
 
 # Installation
 I use [TamperMonkey](https://www.tampermonkey.net/) for this, you can use whatever works for you
