@@ -15,7 +15,7 @@ I use [TamperMonkey](https://www.tampermonkey.net/) for this, you can use whatev
 
 Download [zombie.user.js](https://github.com/ducky4life/ns-zombie/raw/refs/heads/main/zombie.user.js) (or paste it in your script runner), run it, enjoy
 
-If you use TamperMonkey, go to the blender.user.js link above and TamperMonkey should pop up automatically with the [Latest Release](https://github.com/ducky4life/ns-zombie/releases/latest)
+If you use TamperMonkey, go to the zombie.user.js link above and TamperMonkey should pop up automatically with the [Latest Release](https://github.com/ducky4life/ns-zombie/releases/latest)
 
 # Keybinds
 
