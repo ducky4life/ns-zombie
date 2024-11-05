@@ -6,7 +6,7 @@ works on fast.nationstates.net!
 
 i recommend using [tree style tabs](https://addons.mozilla.org/en-GB/firefox/addon/tree-style-tab/) when running the script with multiple puppets
 
-## Check out my other scripts!
+## my other scripts :D
 <a href="https://github.com/ducky4life/ns-detag">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ducky4life&repo=ns-detag&theme=algolia" />
 </a>
