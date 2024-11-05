@@ -13,7 +13,7 @@ i recommend using [tree style tabs](https://addons.mozilla.org/en-GB/firefox/add
 # Installation
 I use [TamperMonkey](https://www.tampermonkey.net/) for this, you can use whatever works for you
 
-Download [zombie.user.js](https://github.com/ducky4life/ns-zombie/raw/refs/heads/main/zombie.user.js) (or paste it in your script runner), enter your main nation, run it, enjoy
+Download [zombie.user.js](https://github.com/ducky4life/ns-zombie/raw/refs/heads/main/zombie.user.js) (or paste it in your script runner), run it, enjoy
 
 If you use TamperMonkey, go to the blender.user.js link above and TamperMonkey should pop up automatically with the [Latest Release](https://github.com/ducky4life/ns-zombie/releases/latest)
 
