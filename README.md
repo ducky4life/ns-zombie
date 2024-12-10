@@ -31,10 +31,6 @@ Z: zombie control page
 4. go to the regional activity page on all of your other puppets, find the activity and click on your target nation on every puppet
 5. keep firing your superweapon using the keybinds while switching tabs to other puppets
 
-## Having problems/have new ideas?
-
-Contact me on Discord, email: ducky4life@duck.com, or [telegram me on NationStates](https://www.nationstates.net/page=compose_telegram?tgto=ducky)!
-
 ## my scripts :D
 
 <a href="https://github.com/ducky4life/ns-detag">
@@ -49,3 +45,7 @@ Contact me on Discord, email: ducky4life@duck.com, or [telegram me on NationStat
 <a href="https://github.com/ducky4life/ns-cardfinder">
   <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-cardfinder&theme=algolia" />
 </a>
+
+## Having problems/have new ideas?
+
+Contact me on Discord, email: ducky4life@duck.com, or [telegram me on NationStates](https://www.nationstates.net/page=compose_telegram?tgto=ducky)!
