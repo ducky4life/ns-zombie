@@ -6,21 +6,6 @@ works on fast.nationstates.net!
 
 i recommend using [tree style tabs](https://addons.mozilla.org/en-GB/firefox/addon/tree-style-tab/) when running the script with multiple puppets
 
-## my scripts :D
-
-<a href="https://github.com/ducky4life/ns-detag">
-  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-detag&theme=algolia" />
-</a>
-<a href="https://github.com/ducky4life/ns-blender">
-  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-blender&theme=algolia" />
-</a>
-<a href="https://github.com/ducky4life/ns-zombie">
-  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-zombie&theme=algolia" />
-</a>
-<a href="https://github.com/ducky4life/ns-cardfinder">
-  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-cardfinder&theme=algolia" />
-</a>
-
 # Installation
 I use [TamperMonkey](https://www.tampermonkey.net/) for this, you can use whatever works for you
 
@@ -45,6 +30,24 @@ Z: zombie control page
 3. use your superweapon on one of your puppets, creating a regional zombie activity
 4. go to the regional activity page on all of your other puppets, find the activity and click on your target nation on every puppet
 5. keep firing your superweapon using the keybinds while switching tabs to other puppets
+
+## my scripts :D
+
+<a href="https://github.com/ducky4life/ns-detag">
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-detag&theme=algolia" />
+</a>
+<a href="https://github.com/ducky4life/ns-blender">
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-blender&theme=algolia" />
+</a>
+<a href="https://github.com/ducky4life/ns-zombie">
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-zombie&theme=algolia" />
+</a>
+<a href="https://github.com/ducky4life/ns-cardfinder">
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-cardfinder&theme=algolia" />
+</a>
+<a href="https://github.com/ducky4life/ns-cardbidder">
+  <img align="center" src="https://ducky4life.vercel.app/api/pin/?username=ducky4life&repo=ns-cardbidder&theme=algolia&" />
+</a>
 
 ## Having problems/have new ideas?
 
